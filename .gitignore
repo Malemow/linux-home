@@ -1,0 +1,13 @@
+.bash_history
+.cache
+.dotnet
+.lesshst
+.ssh
+.viminfo
+.vscode-server
+.wget-hsts
+.Xauthority
+.vim/plugged
+
+.npm
+.nvm
